@@ -2,6 +2,7 @@
 
 I'm a **Multiplatform Software Engineer** currently Working as Professor
 and currently working as freelance, also developing some random stuff here
+Also i'm the CEO of [https://basansolutions.com](Basan Solutions)
 # Connect With Me! (;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baak99)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axlbasilioa@gmail.com)
